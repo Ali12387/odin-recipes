@@ -18,3 +18,10 @@
   height: 250px;
   width: 250px;
 }
+.list {
+  font-weight: 400px;
+  color: red;
+}
+.enjoy {
+  color: rgb(4, 0, 255);
+}

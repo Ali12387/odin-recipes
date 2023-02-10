@@ -1,5 +1,15 @@
 .recipe-heading {
     background-color: white;
     color: blue;
-    font-weight: 800;
+    font-weight: 600;
+}
+#heading {
+  font-weight: 800;
+  background-color: hsl(120, 100%, 50%); 
+  color:black;
+  text-align: center; 
+}
+.dish-heading {
+    color:hsl(313, 100%, 50%);
+    font-weight: 600;
 }

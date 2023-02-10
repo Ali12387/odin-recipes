@@ -8,8 +8,13 @@
   background-color: hsl(120, 100%, 50%); 
   color:black;
   text-align: center; 
+  font-family: Cursive, Sans-serif, Arial;
 }
 .dish-heading {
     color:hsl(313, 100%, 50%);
     font-weight: 600;
+}
+.img {
+  height: 250px;
+  width: 250px;
 }

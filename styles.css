@@ -6,6 +6,8 @@ h2 {
 }
 h1 {
     text-align: center;
+    color: hsl(187, 81%, 6%);
+    background-color: aqua;
 }
 
 img {

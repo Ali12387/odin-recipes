@@ -19,3 +19,7 @@ ul li {
     background-color: red;
     font-weight: bold;
 }
+
+ol li {
+    background-color: aqua;
+}

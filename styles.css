@@ -1,3 +1,7 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .recipes,
 h2 {
     background-color: yellow;

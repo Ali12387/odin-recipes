@@ -14,3 +14,8 @@ img {
     height: auto;
     width: 500px;
 }
+
+ul li {
+    background-color: red;
+    font-weight: bold;
+}
